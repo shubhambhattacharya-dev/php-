@@ -89,4 +89,6 @@
 
 ✅ **Done!** Your PHP environment is ready.  
 👉 **Next Steps**: Start building dynamic web apps with PHP!  
-<hr>
+<hr> 
+
+# _** use live server extension ** - for better debugging experience**_
