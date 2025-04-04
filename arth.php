@@ -15,11 +15,25 @@ $z=null;
 
 
 echo $z;
-
+echo"<br>";
 
 
 //increments /decrementts operators
 // ++,--
+$counter=10;
+$counter+=4;//+4 
+echo $counter;
+
+echo "<br>";
+
+//some tricky 
+$apple = 121;
+$fruit = ++$apple; 
+echo $fruit;
+
+
+
+
 
 // Operator precedence
 // ()
